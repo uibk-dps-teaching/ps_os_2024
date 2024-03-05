@@ -1,0 +1,12 @@
+
+== Test Summary ==
+ Tests run:    7
+[1;32m Tests passed: 7
+[0m[1;31m Tests failed: 0
+[0m==================
+
+======== Memory Summary ========
+ Total allocated memory 6772 bytes
+ Total freed memory     6772 bytes
+ Memory leaked          0 bytes
+================================
