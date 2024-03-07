@@ -11,8 +11,8 @@ Note that exercises associated with a given date are to be discussed on that day
 
 | Date       | Exc              | Topic                                                 | Notes               |
 | ---------- | ---------------- | -------------------------------------                 | ------------------- |
-| 2023-03-08 | -                |                                                       | C recap slides      |
-| 2023-03-13 | [1](exercise01/) | Self-assessment, ssh, commandline aruments            | Makefile slides     |
+| 2024-03-06 | -                |                                                       | C recap slides      |
+| 2024-03-13 | [1](exercise01/) | Self-assessment, ssh, commandline aruments            | Makefile slides     |
 
 ## Coding Guidelines
 
