@@ -5,14 +5,12 @@ AllowShortEnumsOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: Inline
 AllowShortIfStatementsOnASingleLine: true
-AllowShortEnumsOnASingleLine: false
 BreakBeforeBraces: Attach
 ColumnLimit: 100
 Cpp11BracedListStyle: false
 IndentCaseLabels: true
 IndentWidth: 2
 PointerAlignment: Left
-SpaceBeforeParens: Never
 TabWidth: 2
 UseTab: ForIndentation
 SpaceBeforeParens: ControlStatements

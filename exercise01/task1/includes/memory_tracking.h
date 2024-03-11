@@ -70,7 +70,7 @@ static inline void my_free(void* ptr, uint32_t line) {
 }
 
 #define malloc(size) my_malloc(size, __LINE__)
-#define calloc(num, size) my_calloc(nun, size, __LINE__)
+#define calloc(num, size) my_calloc(num, size, __LINE__)
 #define free(size) my_free(size, __LINE__)
 
 #endif
