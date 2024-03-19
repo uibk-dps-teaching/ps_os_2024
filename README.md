@@ -14,6 +14,9 @@ Note that exercises associated with a given date are to be discussed on that day
 | 2024-03-06 | -                |                                                       | C recap slides      |
 | 2024-03-13 | [1](exercise01/) | Self-assessment, ssh, commandline aruments            | Makefile slides     |
 | 2024-03-20 | [2](exercise02/) | Makefile, signal, fork                                |                     |
+| 2024-03-27 | -                |                                                       | Break               |
+| 2024-04-03 | -                |                                                       | Break               |
+| 2024-04-10 | [3](exercise03/) | Permissions, exit codes, pthreads                     |                     |
 
 ## Coding Guidelines
 
