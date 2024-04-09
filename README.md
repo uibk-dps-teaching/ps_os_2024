@@ -17,6 +17,7 @@ Note that exercises associated with a given date are to be discussed on that day
 | 2024-03-27 | -                |                                                       | Break               |
 | 2024-04-03 | -                |                                                       | Break               |
 | 2024-04-10 | [3](exercise03/) | Permissions, exit codes, pthreads                     |                     |
+| 2024-04-17 | [4](exercise04/) | Valgrind, pipes, fifos                                |                     |
 
 ## Coding Guidelines
 
