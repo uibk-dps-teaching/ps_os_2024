@@ -89,7 +89,19 @@ On the shell you can provide the output of a command as input to another using a
 
 ```
 $ cat file.txt | cut -c 22-
-7
+Hello
+Goodbye
+Congratulations,
+Goodbye
+Ignore
+Start
+you
+solved
+Finish
+task 2.
+End
+Repeat
+Welcome
 ```
 
 This _forwards_ the standard output of `cat` to the standard input of `cut` (remove sections from lines). 
@@ -98,7 +110,10 @@ Multiple commands can be chained together to build longer _pipelines_.
 
 ```
 $ cat file.txt | grep '^;' | cut -c 22-
-3
+Congratulations,
+you
+solved
+task 2.
 ```
 
 Your task is to create a C program `cat_cut` that uses `fork` and `exec` to run the two commands `cat file.txt` and `cut` (with the argument `-c 22-`) like just shown.
