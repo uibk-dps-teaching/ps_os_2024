@@ -18,6 +18,7 @@ Note that exercises associated with a given date are to be discussed on that day
 | 2024-04-03 | -                |                                                       | Break               |
 | 2024-04-10 | [3](exercise03/) | Permissions, exit codes, pthreads                     |                     |
 | 2024-04-17 | [4](exercise04/) | Valgrind, pipes, fifos                                |                     |
+| 2024-04-24 | [5](exercise05/) | Message queues, shared memory, synchronization        |                     |
 
 ## Coding Guidelines
 
@@ -36,6 +37,8 @@ Make sure to choose descriptive variable and function names.
 
 All programming exercise solutions you hand in **must** compile properly on the [ZID-GPL server](https://www.uibk.ac.at/zid/systeme/linux/lpccs_4/benutzeranleitung_zid-gpl.html).
 The easiest way of ensuring this is by developing on ZID-GPL directly, either through a terminal or using an editor/IDE with support for remote development via SSH (such as [Visual Studio Code](https://code.visualstudio.com/docs/remote/ssh)).
+
+**Important**: Facing issues with your system is not a valid excuse for only partially completing exercise sheets or avoiding them entirely. If you encounter difficulties, use ZID-GPL.
 
 ## Connecting to ZID-GPL via SSH
 
