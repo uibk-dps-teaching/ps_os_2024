@@ -20,6 +20,7 @@ Note that exercises associated with a given date are to be discussed on that day
 | 2024-04-17 | [4](exercise04/) | Valgrind, pipes, fifos                                |                     |
 | 2024-04-24 | [5](exercise05/) | Message queues, shared memory, synchronization        |                     |
 | 2024-05-08 | [6](exercise06/) | Atomics, mutex, condition variables                   |                     |
+| 2024-05-15 | [7](exercise07/) | Strace, deadlock, thread pool                         |                     |
 
 ## Coding Guidelines
 
