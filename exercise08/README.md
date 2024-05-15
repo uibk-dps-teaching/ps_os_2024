@@ -200,8 +200,6 @@ Example output:
 - For more information on the HTTP protocol, you may browse through [RFC 7230](https://datatracker.ietf.org/doc/html/rfc7230).
 - When working on ZID-GPL, you can still connect to your web server with your local web browser by creating an _SSH tunnel_ using `ssh csXXXX@zid-gpl.uibk.ac.at -N -L <port>:localhost:<port>` where `<port>` refers to the port your server is listening on (make sure to choose a unique port to avoid collisions with other students).
 - Use `-D_DEFAULT_SOURCE` on ZID.
-- Hint: If you are implementing to ZID-GPL, you can use `ssh -L <port>:localhost:<port> cxxxxx@zid-gpl.uibk.ac.at` to establish an SSH tunnel and check results in your browser.
-
 ---
 
 Submit your solution as a zip archive via OLAT, structured as follows, where csXXXXXX is your UIBK login name. Your zip archive **must not** contain binaries.
