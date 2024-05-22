@@ -31,9 +31,9 @@ The client:
 - Upon connecting, the client first sends its username to the server.
 - It then continuously prompts messages from the user, and sends them to the server.
 
-Your chat application should support two special commands:
+Your chat application should support special commands:
 
-- `/shutdown` informs the server to shut down, no longer accepting new connections. In addition, the client should automatically exit. \
+- `/shutdown` informs the server to shut down, no longer accepting new connections. In addition, the client should automatically exit. 
 - If the client is admin, the server prints `"Server is shutting down."`, upon receiving the message. If some clients are still connected, the server should further print `"Waiting for <N> clients to disconnect."`, where `N` is the number of remaining clients.
   It then waits for all remaining clients to disconnect, cleans up and exits.
 - If the client is not an admin, it only cleans up and exits.
@@ -116,7 +116,7 @@ jakob connected.                                                  > ./client 248
 charlie connected.                  charlie connected.
                                     > hi all
 jakob: hi all                                                     jakob: hi all
-                                    > /timeout alice hey
+                                    > /timeout alice
 You have been timeouted by jakob.
                                     > hi all
 jakob: hi all                                                     jakob: hi all
