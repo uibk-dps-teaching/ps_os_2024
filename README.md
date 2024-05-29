@@ -23,6 +23,7 @@ Note that exercises associated with a given date are to be discussed on that day
 | 2024-05-15 | [7](exercise07/) | Strace, deadlock, thread pool                         |                     |
 | 2024-05-22 | [8](exercise08/) | TCP sockets, HTTP web server                          |                     |
 | 2024-05-29 | [9](exercise09/) | TCP sockets (chat)                                    |                     |
+| 2024-06-05 | [10](exercise10/)| Barriers, linking                                     |                     |
 
 ## Coding Guidelines
 
