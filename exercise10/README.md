@@ -132,7 +132,7 @@ LD_LIBRARY_PATH=. ./map_string "QYEBj BYYRu" ./caesar_cipher.so ./xor_string.so 
 ./xor_string.so: dlroW olleH
 ./reverse_string.so: Hello World
 ```
-Additionally, think of two different plugins similar to the ones in the example above and implement them. If you can't think of any reversible plugins, you can also implement a plugin that modifies the string in a way that it can't be reversed to the original string.
+Additionally, think of two different plugins (called `library_one` and `library_two`) similar to the ones in the example above and implement them. If you can't think of any reversible plugins, you can also implement a plugin that modifies the string in a way that it can't be reversed to the original string.
 
 ---
 
@@ -155,7 +155,9 @@ exc10_csXXXXXX.zip
     ├── Makefile
     ├── map_string.c
     ├── reverse_string.c
-    └── xor_string.c
+    ├── xor_string.c
+    ├── library_one.c
+    └── library_two.c
 ```
 
 Requirements
