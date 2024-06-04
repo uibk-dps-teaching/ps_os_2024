@@ -24,6 +24,9 @@ Note that exercises associated with a given date are to be discussed on that day
 | 2024-05-22 | [8](exercise08/) | TCP sockets, HTTP web server                          |                     |
 | 2024-05-29 | [9](exercise09/) | TCP sockets (chat)                                    |                     |
 | 2024-06-05 | [10](exercise10/)| Barriers, linking                                     |                     |
+| 2024-06-12 | [11](exercise11/)| Last year's test                                      | Bonus points        |
+| 2024-06-19 | -                |                                                       | Test                |
+| 2024-06-26 | -                |                                                       | Q&A, Feedback       |
 
 ## Coding Guidelines
 
